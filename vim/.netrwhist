@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/mwl'
+let g:netrw_dirhist_2='/Users/mwl/IdeaProjects/triloggy/node_modules'
+let g:netrw_dirhist_3='/usr/local/Cellar/tomcat/7.0.23/libexec/bin'
+let g:netrw_dirhist_4='/Users/mwl/IdeaProjects/buildari.no/buildarino'
+let g:netrw_dirhist_5='/Users/mwl/IdeaProjects/StamdataManager2/sdm2/sdm-integrationtest'
+let g:netrw_dirhist_6='/private/etc'
